@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ActorMovie</string>
+    <array name="movies">
+        <item>DDLJ</item>
+        <item>Dhoom3</item>
+        <item>Dangal</item>
+        <item>Half gf</item>
+        <item>Ek Villian</item>
+        <item>Ok jaanu</item>
+        <item>Bahubali</item>
+    </array>
+</resources>

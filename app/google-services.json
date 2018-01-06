@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "726330549486",
+    "firebase_url": "https://actormovie-c22df.firebaseio.com",
+    "project_id": "actormovie-c22df",
+    "storage_bucket": "actormovie-c22df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726330549486:android:ea8d2134e381e59f",
+        "android_client_info": {
+          "package_name": "com.pawan.actormovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726330549486-q4ofuksokftvfa7sdul8uktqb05s2es4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pawan.actormovie",
+            "certificate_hash": "cc0476053439e8085f11c3b2e8ccd74e510f96c7"
+          }
+        },
+        {
+          "client_id": "726330549486-tpbj5f8jodhn7ogtbql8usb1v9qggqhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS6v6p3Y7ytVJYtyAE7YDaPR-xijwnjdA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726330549486-tpbj5f8jodhn7ogtbql8usb1v9qggqhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
